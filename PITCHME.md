@@ -6,7 +6,7 @@
 
 ![](assets/img/presentation.png)
 
----
++++
 @title[Customize Slide Layout]
 
 @snap[west span-50]
